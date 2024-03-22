@@ -1,0 +1,51 @@
+@charset "utf-8";
+
+
+.CONTENEDOR_PRINCIPAL .ENCABEZADO {
+	width: 100%;
+	height: 60px;
+	min-width: 0px;
+	background-color: #FD9FF8;
+	color: #000000;
+	text-transform: uppercase;
+	text-shadow: 0px 0px #000000;
+	text-align: center;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+.CONTENEDOR_PRINCIPAL .MENU {
+	background-color: #51F8A2;
+	text-align: center;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	text-transform: uppercase;
+}
+.CONTENEDOR_PRINCIPAL .BARRA_LATERAL {
+	color: #090404;
+	background-color: #11A45D;
+	height: 165px;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-align: center;
+	width: 60%;
+	/* [disabled]list-style-position: outside; */
+	background-repeat: repeat;
+	float: left;
+	clear: none;
+}
+.CONTENEDOR_PRINCIPAL .ARTICULO_1 {
+	background-color: #F02DC0;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	width: 100%;
+	color: #120211;
+	-webkit-box-shadow: 0px 0px #800E6C;
+	box-shadow: 0px 0px #800E6C;
+	text-align: center;
+	float: none;
+	height: 55px;
+	display: block;
+}
+.CONTENEDOR_PRINCIPAL .PIE_PAGINA {
+	width: 100%;
+	height: 71px;
+	background-color: #51F8A2;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	text-align: center;
+}
